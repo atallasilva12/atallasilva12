@@ -1,6 +1,34 @@
-### Hi there 👋
+### Olá, me chamo Atalla! 👋
 
-<div style="display: inline_block"><br>
+
+##
+
+
+<div  align="center">
+  <a href="https://github.com/victor08dssz">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=victor08dssz&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
+
+</div>
+ <br>
+<div  align="center"> 
+ 
+
+ 
+    
+
+  
+  
+  ![Snake animation](https://github.com/victor08dssz/victor08dssz/blob/output/github-contribution-grid-snake.svg)
+ 
+   </div>
+
+
+##
+
+
+<div  align="center"> 
+ <br>
    <img align="center" alt="Atalla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Atalla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Atalla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
